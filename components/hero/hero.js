@@ -73,7 +73,7 @@ export default function Hero(){
 
     return(
         <>
-            <section className="hero-section w-screen h-69v flex flex-col items-center mb-16 sm:mb-4">
+            <section className="hero-section w-screen h-75v flex flex-col items-center mb-16 sm:mb-4">
                 <div className="main_bkgd-container z-0 fixed flex top-1/20">
                     <div className="main_bkgd moving1 z-0 w-screen h-screen">
                             {myExes()}
